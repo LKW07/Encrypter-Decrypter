@@ -1,6 +1,7 @@
 from encrypt import *
 from decrypt import *
 
+os.system("cls")
 print("------------MENU--------------")
 print("(1) Encrypt Message")
 print("(2) Decrypt Message")
