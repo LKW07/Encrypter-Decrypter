@@ -1,4 +1,4 @@
-#Python Encrypter/Decrypter
+# Python Encrypter/Decrypter
 
 Autor: Leander Weiss
 Beschreibung: Verschlüsselung und Entschlüsselung von Texten
