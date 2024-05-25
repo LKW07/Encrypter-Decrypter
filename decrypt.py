@@ -10,7 +10,7 @@ def decrypt():
     
     key = input("Key: ")
     
-    if not(key) and not(c_msg):
+    if not key and not c_msg:
         k_msg = input("Message with key: ")
         n_msg = k_msg
         c_msg = k_msg[ch_len:]
